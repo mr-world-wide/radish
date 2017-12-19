@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Homepage
-menus: header
+menu:
+  header:
+    identifier: _index
+    url: "/"
+    weight: -1
 ---
 Hello
 
