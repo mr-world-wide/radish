@@ -1,5 +1,7 @@
 ---
-layout: Radish Tech
+layout: page
+title: Homepage
+menus: header
 ---
 Hello
 
