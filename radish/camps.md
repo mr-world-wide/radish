@@ -7,6 +7,6 @@ menu:
     url: "/camps.html"
     weight: -1
 ---
+Our first code camp will start on February 1.
 
-Our first code camp will start on February 1. 
-
+Join us to learn Javascript. 
