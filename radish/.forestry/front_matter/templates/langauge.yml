@@ -1,0 +1,14 @@
+---
+hide_body: false
+fields:
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Australia
+    - United Kingdom
+    - United States
+  name: Langauge
+  description: Select the Langauge this page is for.
+  label: Language Selector
